@@ -25,3 +25,7 @@ for valor in precos:
   print(f"o imposto de {valor} é {calcular_imposto(valor)}")
 
 #Declarar um função calcular_imposto_aliquota que recebe dois parâmetros: o preço do produto e a alíquota de imposto a ser aplicada e retorna o imposto calculado. Se a aliquota não for informada, utilize 7% como padrão.
+def declarar_imposto_aliquota(valor_produto) (aliquota):
+  if 
+  imposto_aliquota = valor_produto * aliquota
+  return imposto_aliquota
