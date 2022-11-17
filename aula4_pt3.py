@@ -2,7 +2,7 @@
 import sqlite3
 
 #criar função conectar
-def conectar:
+def conectar():
   #Estabelecer conexão com o banco de dados
   conexao = sqlite3.connect("dc_universe.db")
 
