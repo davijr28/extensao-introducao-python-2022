@@ -1,4 +1,4 @@
-# Meu primeiro projeto em python  print() = comando de saída
+#Meu primeiro projeto em python - print() = comando de saída
 print("Alo mundo!")
 
 #Para guardar uma string

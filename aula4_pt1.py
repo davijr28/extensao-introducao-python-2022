@@ -10,7 +10,7 @@ cursor = conexao.cursor()
 #Comnado SQL do banco
 sql = "SELECT pessoa_id, nome, nome_civil, tipo FROM pessoas"
 
-#executar o comando SQL no SQLite (cursor)
+#Executar o comando SQL no SQLite (cursor)
 cursor.execute(sql)
 
 #exibir a consulta com todos os nomes de heróis e vilões do banco de dados

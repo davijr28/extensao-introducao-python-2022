@@ -1,4 +1,4 @@
-# comando input(): permitir que o usuário digite algo
+#Comando input(): permitir que o usuário digite algo
 nome = input("Digite seu nome: ")
 
 #pede a idade para o usuário "Qual sua idade?"

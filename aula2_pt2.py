@@ -6,5 +6,5 @@ if (nota == 10):
   print(f"{nome}, você é bichão, mesmo...")
 elif (nota >= 6 and nota < 10):
   print(f"{nome}, bom trabalho")
-else: # é sempre automaticamente o que as duas condições não tratamento
+else: #é sempre automaticamente o que as duas condições não tratamento
   print("Burro, não tirou dez...")

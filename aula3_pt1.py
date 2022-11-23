@@ -3,7 +3,7 @@ while(contador <= 10):
   print (contador)
   contador = contador +1
 
-#laço for
+#Laço for
 fruta = "morango"
 print(fruta)
 fruta1 = "morango"
